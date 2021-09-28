@@ -1,2 +1,2 @@
 # calc-lib
-A calculator library
+A Calculator library.

@@ -1,2 +1,2 @@
 # calc-lib
-A calculator library repo
+A calculator library
